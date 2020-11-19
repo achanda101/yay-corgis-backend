@@ -1,0 +1,12 @@
+# Mac files
+.DS_Store
+
+# Dependency directories
+/node_modules
+
+# environment variables
+/web/.env.development
+/web/.env
+
+# History files
+.history
